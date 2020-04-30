@@ -13,7 +13,6 @@ public class MainTestFile {
     public void DummyTest(){
         assertEquals(1, 1);
         System.out.println("Test completed See i have now been completed");
-        System.out.println("just logging");
-
+      
     }
 }
